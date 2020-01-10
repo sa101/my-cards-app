@@ -1,0 +1,14 @@
+.Footer-container {
+  flex: 1 100%;
+  display: flex;
+  padding: 1rem;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.Footer-container button {
+  font-size: 1.5rem;
+  padding: 1rem 1.5rem;
+  border-radius: 0.3rem;
+}
